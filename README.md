@@ -5,6 +5,7 @@
 [Requirements](#requirments)<br>
 [Usage](#usage)<br>
 [Screenshot](#screenshot)<br>
+[Video](#video)<br>
 [Access](#access)<br>
 [Credits](#credits)<br>
 [Roadmap](#roadmap)<br>
@@ -28,7 +29,9 @@ MySql
 
 ## Screenshot
 ![Screenshot](./dist/Capture.PNG)
-[Video]()
+
+## Video
+[Video Walkthrough](https://drive.google.com/file/d/1eyKDrpUsNOaPfeXgkb88zHF7Atir4aK9/view)
 
 ## Access
 
@@ -36,9 +39,9 @@ MySql
 [Commerce App](https://github.com/beattycharles/e-commerce)
 
 ## Credits
-Special Thanks to: https://github.com/BogartDME, https://github.com/EvolanGIT, and https://github.com/difurung.
-(https://sequelize.org/)
-(https://www.geeksforgeeks.org/express-js-express-router-function/)
+Special Thanks to: https://github.com/BogartDME, https://github.com/EvolanGIT, and https://github.com/difurung,
+https://sequelize.org/,
+https://www.geeksforgeeks.org/express-js-express-router-function/
 
 ## Questions
 My Github is https://github.com/beattycharles, <br>
